@@ -9,7 +9,6 @@ def generate_random_number():
             print(f"---------------------------")
         except ValueError as ve:
             print(f"Error: {ve}. Please enter valid numbers.")
-            print(f"---------------------------")
 
 if __name__ == "__main__":
     generate_random_number()
