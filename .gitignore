@@ -1,6 +1,3 @@
-# Projectsettings
-*.json
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -146,6 +143,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Projectsettings
+*.json
 
 # PyCharm
 #  JetBrains specific template is maintainted in a separate JetBrains.gitignore that can
